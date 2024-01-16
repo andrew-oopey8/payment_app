@@ -4,7 +4,7 @@
             "outputFile": "com.example.payment_app-mergeDebugResources-91:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\e284401544ba482b40b90025405636f0\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\e284401544ba482b40b90025405636f0\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

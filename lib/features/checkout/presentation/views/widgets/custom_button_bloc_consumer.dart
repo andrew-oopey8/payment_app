@@ -13,7 +13,6 @@ class CustomButtonBlocConsumer extends StatelessWidget {
   const CustomButtonBlocConsumer({
     super.key,
   });
-
   @override
   Widget build(BuildContext context) {
     return BlocConsumer<PaymentCubit, PaymentState>(
@@ -43,7 +42,8 @@ class CustomButtonBlocConsumer extends StatelessWidget {
                     customerId: 'cus_PLdwn79w98m5Ez');
             BlocProvider.of<PaymentCubit>(context)
                 .makePayment(paymentIntentInputModel: paymentIntentInputModel);
-            // var transactionData = PayPalService().getTransactionData();
+
+            //               var transactionData = PayPalService().getTransactionData();
             // PayPalService().executePaypalPayment(context, transactionData);
           },
           isLoading: state is PaymentLoading ? true : false,

@@ -4,7 +4,7 @@
             "outputFile": "com.example.payment_app-mergeDebugResources-91:/values-xhdpi-v4/values-xhdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\6f3b43b871cf322ab263785d169c59c8\\transformed\\jetified-payments-core-20.34.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\6f3b43b871cf322ab263785d169c59c8\\transformed\\jetified-payments-core-20.34.4\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,12 +1,12 @@
-#Thu Jan 11 11:10:20 EET 2024
-base.0=C\:\\Users\\pc\\Downloads\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\pc\\Downloads\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\pc\\Downloads\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.3=C\:\\Users\\pc\\Downloads\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.4=C\:\\Users\\pc\\Downloads\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.5=C\:\\Users\\pc\\Downloads\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.6=C\:\\Users\\pc\\Downloads\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
-base.7=C\:\\Users\\pc\\Downloads\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes4.dex
+#Wed Jan 17 00:39:58 EET 2024
+base.0=D\:\\projects_flutter\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\projects_flutter\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=D\:\\projects_flutter\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=D\:\\projects_flutter\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.4=D\:\\projects_flutter\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.5=D\:\\projects_flutter\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.6=D\:\\projects_flutter\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+base.7=D\:\\projects_flutter\\payment_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes4.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=0/classes.dex

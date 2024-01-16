@@ -4,7 +4,7 @@
             "outputFile": "com.example.payment_app-mergeDebugResources-91:/values-de-rDE/values-de-rDE.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-3\\05f28b74fcbfa1c7b82f1871c3961969\\transformed\\jetified-stripe-3ds2-android-6.1.7\\res\\values-de-rDE\\values-de-rDE.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\05f28b74fcbfa1c7b82f1871c3961969\\transformed\\jetified-stripe-3ds2-android-6.1.7\\res\\values-de-rDE\\values-de-rDE.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
